@@ -1,5 +1,10 @@
 package com.poac.csu.sort;
-
+/**
+ * 
+ * @author Power
+ * @comment -- etc.
+ * @date 2021-10-16 17:25:20
+ */
 public class SelectionSort {
 	
 	// from small to big 

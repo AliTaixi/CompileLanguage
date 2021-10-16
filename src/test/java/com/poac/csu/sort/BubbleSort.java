@@ -1,5 +1,10 @@
 package com.poac.csu.sort;
-
+/**
+ * 
+ * @author Power
+ * @comment -- etc.
+ * @date 2021-10-16 17:25:43
+ */
 public class BubbleSort {
 	
 	// from small to big 

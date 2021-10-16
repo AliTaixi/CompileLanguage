@@ -1,5 +1,10 @@
 package com.poac.csu.sort;
-
+/**
+ * 
+ * @author Power
+ * @comment -- etc.
+ * @date 2021-10-16 17:25:56
+ */
 public class MergeSort {
 	
 	// from small to big 
@@ -8,18 +13,13 @@ public class MergeSort {
 	
 	static void mergeSort(int[] mergeArray) {
 		
-		if (mergeArray.length == 2) {
-			if (mergeArray[0] > mergeArray[1]) {
-
-				int temp = mergeArray[0];
-				mergeArray[0] = mergeArray[1];
-				mergeArray[1] = temp;
-
-			}
-		}else {
-//			mergeSort(mergeArray[]);
-		}
+	
 	}
+	
+	static void sort() {
+		
+	}
+	
 	
 	
 	public static void main(String[] args) {

@@ -2,8 +2,9 @@ package com.poac.csu.sort;
 
 /**
  * 
- * @author power
- *
+ * @author Power
+ * @comment -- etc.
+ * @date 2021-10-16 17:26:08
  */
 public class ShellSort {
 	
